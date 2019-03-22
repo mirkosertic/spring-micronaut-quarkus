@@ -12,6 +12,7 @@
     <modules>
         <module>micronaut-example</module>
         <module>quarkus-example</module>
+        <module>springboot-example</module>
     </modules>
 
 </project>
